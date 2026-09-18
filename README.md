@@ -2,9 +2,11 @@
 
 En tant que bon dev tu devrais pouvoir le trouver grâce à cette ligne : 
 
-``const password = lyric.toLowerCase().replaceAll(' ', '');``
+```bash
+const password = lyric.toLowerCase().replaceAll(' ', '');
+```
 
-Où trouver lyric ? Je pense que tu sais déjà mais si jamais tu devrais retourner sur le quiz que je t'ai envoyé. La réponse peut se trouver dans les réponses 😌
+Où trouver ``lyric`` ? Je pense que tu sais déjà mais si jamais tu devrais retourner sur le quiz que je t'ai envoyé. La réponse peut se trouver dans les réponses 😌
 
 (FYI pas d'onomatopée 🫠)
 
